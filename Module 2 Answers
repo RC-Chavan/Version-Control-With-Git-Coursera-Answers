@@ -1,0 +1,17 @@
+******Answers of All 15 questions in Module 2 of Version Control with Git  ********
+
+01)  The commit history.
+02)  A commit references its parent(s).
+03)  The name of a Git object.
+04)  It would change drastically.
+05)  The most recent commit of a branch.
+06)  One.
+07)  A tag always points to a specific commit.
+08)  A branch label is created.
+09)  Checkout updates the working tree and HEAD reference.
+10)  The HEAD reference points directly to a commit SHA-1.
+11)  Deletes a branch label.
+12)  Merging combines the work of branches.
+13)  The merge moves a branch label.
+14)  A commit was made on the base branch after the topic branch was created.
+15)  Git places the result of the merge into a new commit.
