@@ -1,0 +1,20 @@
+
+******Answers of All 17 questions in Module 1 of Version Control with Git  ********
+
+01)  Git helps manage the history of the project.
+02)  The default branch is named "master".
+03)  Pull request
+04)  You can continue to work with the local repository.  
+05)  Git implements distributed version control. 
+06)  A commit is a snapshot of the project.
+07)  Staging area
+08)  Remote repository
+09)  Untracked
+10)  Add the file to the staging area.
+11)  Untracked
+12)  Local repository
+13)  By convention, remote repository names end in ".git".
+14)  Clone
+15)  The remote repository information is available in the local repository.
+16)  An alias for the remote repository's URL.
+17)  Push
