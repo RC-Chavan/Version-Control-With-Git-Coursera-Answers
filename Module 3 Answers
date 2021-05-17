@@ -1,0 +1,17 @@
+******Answers of All 15 questions in Module 3 of Version Control with Git  ********
+
+01)  Merge conflicts occur when a person needs to make a decision.
+02)  Adding file(s) to the staging area.
+03)  Both branches update the header in README.md.
+04)  A tracking branch label sometimes points to the same SHA-1 as the remote branch label.
+05)  A local repository.
+06)  The tracking branch label and local branch label point to the same commit.
+07)  The tracking branch label will point to a new commit.
+08)  Fetch does not update the local branch tip.
+09)  Pull combines fetch and merge.
+10)  A fast-forward merge.
+11)  If you have shared the branch.
+12)  A rebase may result in a merge conflict.
+13)  A rebase always rewrites the commit history.
+14)  A rebase may result in a merge conflict.
+15)  An interactive rebase may involve a single branch.
