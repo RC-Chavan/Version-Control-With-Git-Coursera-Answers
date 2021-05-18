@@ -1,0 +1,17 @@
+******Answers of All 15 questions in Module 4 of Version Control with Git  ********
+
+01)  Merge a branch into a project.
+02)  A pull request can act as a form of review and approval.
+03)  Merging a pull request may result in a merge conflict.
+04)  Pull requests can facilitate team discussion. 
+05)  When you want feedback on your work.
+06)  A squash merge can result in deleted commits.
+07)  A fork is a remote repository.
+08)  The upstream repository may have access to the fork.
+09)  The commit histories of the two repositories may begin to differ.
+10)  Cloning a forked repository creates a local repository.
+11)  The person merging the pull request.
+12)  There is usually a single branch on the remote repository.
+13)  Most work is done on a feature branch.
+14)  A forking workflow involves multiple remote repositories.
+15)  Gitflow workflows can accomodate hotfixes.
